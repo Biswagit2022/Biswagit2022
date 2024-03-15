@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... DevOps with Amazon Web Services.
 - 💞️ I’m looking to join DevOps Engineer Role.
 - 📫 How to reach me 
--                 LinkedIn = https://www.linkedin.com/in/biswajit-prusty-795664190/
+-                 LinkedIn = https://www.linkedin.com/in/biswajit-prusty
 -                 Email = biswajitprusty18@gmail.com
 -                 Mob No = +91 8249002077
 
