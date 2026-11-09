@@ -35,11 +35,11 @@ I build and run AWS infrastructure for containerized applications. I use Terrafo
 
 ---
 
-## 📈 Projects
+## 📈 Projects (in progress, repos coming soon)
 
-- **[REPO-NAME](https://github.com/Biswagit2022/REPO-NAME): AWS Infrastructure with Terraform.** Multi-AZ VPC, ECS Fargate and RDS PostgreSQL using reusable modules, remote state in S3 and Secrets Manager.
-- **[REPO-NAME](https://github.com/Biswagit2022/REPO-NAME): GitHub Actions CI/CD.** Pull request checks, Trivy image scanning, staging auto-deploy and a production approval gate.
-- **[REPO-NAME](https://github.com/Biswagit2022/REPO-NAME): Observability stack.** Prometheus, Grafana and Alertmanager with dashboards and alert rules as code.
+- **AWS Infrastructure with Terraform:** Multi-AZ VPC, ECS Fargate and RDS PostgreSQL using reusable modules, remote state in S3 and Secrets Manager.
+- **GitHub Actions CI/CD:** Pull request checks, Trivy image scanning, staging auto-deploy and a production approval gate.
+- **Observability stack:** Prometheus, Grafana and Alertmanager with dashboards and alert rules as code.
 
 ---
 
