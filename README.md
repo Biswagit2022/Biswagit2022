@@ -1,82 +1,59 @@
 # Hi, I'm Biswajit 👋
 
-**AWS DevOps Engineer | 3+ Years Experience**
+**DevOps Engineer | AWS, Terraform, Kubernetes | 3.5 Years | Bengaluru**
 
-I build and maintain cloud infrastructure that scales — automating deployments, securing environments, and keeping production stable. Currently working across AWS, Terraform, Kubernetes, and CI/CD pipelines to ship reliable software fast.
+I build and run AWS infrastructure for containerized applications. I use Terraform for provisioning, Docker and Kubernetes (EKS/ECS) for deployment, and Jenkins, GitHub Actions and Argo CD for CI/CD. At my last role I cut deployment time from 45 to 8 minutes and reduced monthly cloud spend by 22%.
 
 ---
 
 ## 🛠️ What I Do
 
-- **Cloud Infrastructure** — Design and provision AWS environments using Infrastructure as Code
-- **CI/CD Automation** — Build pipelines that take code from commit to production safely
-- **Container Orchestration** — Run workloads on ECS, EKS, and Docker
-- **Monitoring & Reliability** — Set up observability so problems get caught before users notice
-- **Security & Compliance** — Implement least-privilege IAM, secrets management, and security scanning
+- **Cloud Infrastructure:** design and provision AWS environments with Terraform
+- **CI/CD and GitOps:** pipelines from commit to production with Jenkins, GitHub Actions and Argo CD
+- **Containers:** run workloads on ECS, EKS and Docker
+- **Monitoring:** CloudWatch, Prometheus and Grafana dashboards and alerts
+- **Security:** least-privilege IAM, image scanning with Trivy, secrets management
 
 ---
 
 ## 💼 Tech Stack
 
-**Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-**Containers & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-**CI/CD**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-
-**Monitoring & Logging**
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-**Scripting & Config Management**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-**Version Control**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🚀 What I'm Working On
+## 📈 Projects
 
-- 🔧 Deepening expertise in **AWS DevOps** — advanced networking, multi-account architectures, cost optimization
-- 📚 Currently learning **Kubernetes (EKS)**, **Service Mesh**, and **GitOps with ArgoCD**
-- 🎯 Building hands-on projects with Terraform modules, CI/CD pipelines, and observability stacks
-
----
-
-## 📈 Recent Projects
-
-- **AWS Infrastructure with Terraform** — Multi-AZ VPC, ECS Fargate, RDS PostgreSQL with modular Terraform, remote state, and Secrets Manager integration
-- **GitHub Actions CI/CD** — End-to-end pipelines with PR checks, vulnerability scanning, staging auto-deploy, and production approval gates
-- **Container Security** — Trivy-based vulnerability scanning integrated into build pipelines
-
-Check out my repositories below 👇
+- **[REPO-NAME](https://github.com/Biswagit2022/REPO-NAME): AWS Infrastructure with Terraform.** Multi-AZ VPC, ECS Fargate and RDS PostgreSQL using reusable modules, remote state in S3 and Secrets Manager.
+- **[REPO-NAME](https://github.com/Biswagit2022/REPO-NAME): GitHub Actions CI/CD.** Pull request checks, Trivy image scanning, staging auto-deploy and a production approval gate.
+- **[REPO-NAME](https://github.com/Biswagit2022/REPO-NAME): Observability stack.** Prometheus, Grafana and Alertmanager with dashboards and alert rules as code.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Currently Going Deeper On
 
-![Biswajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biswagit2022&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswagit2022&layout=compact&theme=tokyonight)
+- AWS multi-account setups and cost optimization
+- Service mesh
+- AWS Solutions Architect Associate certification (in progress)
 
 ---
 
 ## 🎯 Looking For
 
-I'm actively seeking **DevOps Engineer** opportunities where I can contribute to building scalable, secure, and automated cloud infrastructure. Open to remote, hybrid, or on-site roles.
+DevOps / AWS DevOps / Cloud Engineer roles in Bengaluru (hybrid or remote also fine). Available to join immediately.
 
 ---
 
@@ -84,10 +61,3 @@ I'm actively seeking **DevOps Engineer** opportunities where I can contribute to
 
 - 💼 **LinkedIn:** [biswajit-prusty](https://www.linkedin.com/in/biswajit-prusty)
 - 📧 **Email:** biswajitprusty18@gmail.com
-- 📱 **Phone:** +91 8249002077
-
----
-
-<!---
-Biswagit2022/Biswagit2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
